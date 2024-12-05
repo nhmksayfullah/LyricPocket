@@ -60,3 +60,13 @@ LyricPocket was inspired by a request from my younger brother, who wanted an app
 ## Download Now  
 
 Click on the Play Store badge above to download LyricPocket and start organizing your musical journey today! 🎶  
+
+## License  
+
+LyricPocket is a proprietary application developed by [nhmksayfullah].  
+- Redistribution or modification of the app's source code or binary is prohibited.  
+- Republishing the app under any other name is strictly forbidden.  
+- Personal use is allowed; commercial use requires explicit permission.  
+
+For more details, see the [LICENSE](./LICENSE) file.
+
